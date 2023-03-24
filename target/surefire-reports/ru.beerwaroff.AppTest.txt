@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.beerwaroff.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 s - in ru.beerwaroff.AppTest
