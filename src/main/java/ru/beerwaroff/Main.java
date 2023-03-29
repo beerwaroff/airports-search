@@ -25,7 +25,7 @@ public class Main {
             throw new NumberFormatException("Аргумент должен быть числом.");
         }
 
-        String path = File.separator + "airports" + File.separator + "airports.csv";
+        String path = "../airports.csv";
         FileProvider fileProvider = new FileProvider(path);
 
         Reader reader = new Reader(fileProvider);
